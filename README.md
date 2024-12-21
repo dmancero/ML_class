@@ -1,2 +1,3 @@
 # ML_class
-FInal project Machine learning class
+Final project Machine learning class
+Here, we will annotate the code
